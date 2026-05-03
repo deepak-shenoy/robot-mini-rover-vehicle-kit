@@ -35,9 +35,11 @@ Installation of the controller:
 
 <img src=".artifacts/src/img/robot-assembly-05-controller.jpg" style="width: 40%; height: auto;">
 
-
+Battery pack:
 
 <img src=".artifacts/src/img/robot-assembly-06-battery.jpg" style="width: 40%; height: auto;">
+
+Frame installation:
 
 <img src=".artifacts/src/img/robot-assembly-07-frame.jpg" style="width: 40%; height: auto;">
 
