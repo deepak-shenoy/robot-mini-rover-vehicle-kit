@@ -17,38 +17,37 @@ it navigate.
 A dedicated firmware allows the robot to move autonomously and is used to run
 different AI algorithms.
 
-<img src=".artifacts/src/img/robot-assembly-01.jpg" style="width: 50%; height: auto;">
-
-![robot-assembly-01.jpg](.artifacts/src/img/robot-assembly-01.jpg)
+<img src=".artifacts/src/img/robot-assembly-01.jpg" style="width: 40%; height: auto;">
+<br>
 
 The front wheel is attached:
 
-![robot-assembly-02-front-wheel.jpg](.artifacts/src/img/robot-assembly-02-front-wheel.jpg)
+<img src=".artifacts/src/img/robot-assembly-02-front-wheel.jpg" style="width: 40%; height: auto;">
 
-![robot-assembly-03-motor-assembly.jpg](.artifacts/src/img/robot-assembly-03-motor-assembly.jpg)
+<img src=".artifacts/src/img/robot-assembly-03-motor-assembly.jpg" style="width: 40%; height: auto;">
 
-![robot-assembly-04-motor-assembly.jpg](.artifacts/src/img/robot-assembly-04-motor-assembly.jpg)
+<img src=".artifacts/src/img/robot-assembly-04-motor-assembly.jpg" style="width: 40%; height: auto;">
 
-![robot-assembly-05-controller.jpg](.artifacts/src/img/robot-assembly-05-controller.jpg)
+<img src=".artifacts/src/img/robot-assembly-05-controller.jpg" style="width: 40%; height: auto;">
 
-![robot-assembly-06-battery.jpg](.artifacts/src/img/robot-assembly-06-battery.jpg)
+<img src=".artifacts/src/img/robot-assembly-06-battery.jpg" style="width: 40%; height: auto;">
 
-![robot-assembly-07-frame.jpg](.artifacts/src/img/robot-assembly-07-frame.jpg)
+<img src=".artifacts/src/img/robot-assembly-07-frame.jpg" style="width: 40%; height: auto;">
 
-![robot-assembly-08-frame.jpg](.artifacts/src/img/robot-assembly-08-frame.jpg)
+<img src=".artifacts/src/img/robot-assembly-08-frame.jpg" style="width: 40%; height: auto;">
 
-![robot-assembly-09-camera.jpg](.artifacts/src/img/robot-assembly-09-camera.jpg)
+<img src=".artifacts/src/img/robot-assembly-09-camera.jpg" style="width: 40%; height: auto;">
 
-![robot-assembly-10-battery-fuse.jpg](.artifacts/src/img/robot-assembly-10-battery-fuse.jpg)
+<img src=".artifacts/src/img/robot-assembly-10-battery-fuse.jpg" style="width: 40%; height: auto;">
 
-![robot-assembly-11-battery-fuse.jpg](.artifacts/src/img/robot-assembly-11-battery-fuse.jpg)
+<img src=".artifacts/src/img/robot-assembly-11-battery-fuse.jpg" style="width: 40%; height: auto;">
 
 
 
-![robot-assembly-13-pairing.jpg](.artifacts/src/img/robot-assembly-13-pairing.jpg)
+<img src=".artifacts/src/img/robot-assembly-13-pairing.jpg" style="width: 40%; height: auto;">
 
-![robot-assembly-14-paired.jpg](.artifacts/src/img/robot-assembly-14-paired.jpg)
+<img src=".artifacts/src/img/robot-assembly-14-paired.jpg" style="width: 40%; height: auto;">
 
-![robot-assembly-15-paired-driving.jpg](.artifacts/src/img/robot-assembly-15-paired-driving.jpg)
+<img src=".artifacts/src/img/robot-assembly-15-paired-driving.jpg" style="width: 40%; height: auto;">
 
-![robot-assembly-16-control-pannel.jpg](.artifacts/src/img/robot-assembly-16-control-pannel.jpg)
+<img src=".artifacts/src/img/robot-assembly-16-control-pannel.jpg" style="width: 40%; height: auto;">
