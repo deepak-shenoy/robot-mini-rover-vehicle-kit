@@ -45,13 +45,19 @@ Frame installation:
 
 <img src=".artifacts/src/img/robot-assembly-08-frame.jpg" style="width: 40%; height: auto;">
 
+Attaching the camera unit:
+
 <img src=".artifacts/src/img/robot-assembly-09-camera.jpg" style="width: 40%; height: auto;">
+
+Fuse to prevent power overloading the board:
 
 <img src=".artifacts/src/img/robot-assembly-10-battery-fuse.jpg" style="width: 40%; height: auto;">
 
+
+
 <img src=".artifacts/src/img/robot-assembly-11-battery-fuse.jpg" style="width: 40%; height: auto;">
 
-
+Paring the robot with my phone application:
 
 <img src=".artifacts/src/img/robot-assembly-13-pairing.jpg" style="width: 40%; height: auto;">
 
