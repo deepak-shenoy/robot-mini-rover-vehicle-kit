@@ -23,11 +23,19 @@ The front wheel is attached:
 
 <img src=".artifacts/src/img/robot-assembly-02-front-wheel.jpg" style="width: 40%; height: auto;">
 
+Motors assembled:
+
 <img src=".artifacts/src/img/robot-assembly-03-motor-assembly.jpg" style="width: 40%; height: auto;">
+
+Camera harness:
 
 <img src=".artifacts/src/img/robot-assembly-04-motor-assembly.jpg" style="width: 40%; height: auto;">
 
+Installation of the controller:
+
 <img src=".artifacts/src/img/robot-assembly-05-controller.jpg" style="width: 40%; height: auto;">
+
+
 
 <img src=".artifacts/src/img/robot-assembly-06-battery.jpg" style="width: 40%; height: auto;">
 
