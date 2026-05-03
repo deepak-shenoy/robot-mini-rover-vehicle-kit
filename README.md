@@ -18,7 +18,6 @@ A dedicated firmware allows the robot to move autonomously and is used to run
 different AI algorithms.
 
 <img src=".artifacts/src/img/robot-assembly-01.jpg" style="width: 40%; height: auto;">
-<br>
 
 The front wheel is attached:
 
