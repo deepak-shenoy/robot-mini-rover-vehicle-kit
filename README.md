@@ -17,6 +17,8 @@ it navigate.
 A dedicated firmware allows the robot to move autonomously and is used to run
 different AI algorithms.
 
+<img src=".artifacts/src/img/robot-assembly-01.jpg" style="width: 50%; height: auto;">
+
 ![robot-assembly-01.jpg](.artifacts/src/img/robot-assembly-01.jpg)
 
 The front wheel is attached:
@@ -41,7 +43,7 @@ The front wheel is attached:
 
 ![robot-assembly-11-battery-fuse.jpg](.artifacts/src/img/robot-assembly-11-battery-fuse.jpg)
 
-[robot-assembly-12-startingup.MOV](.artifacts/src/mov/robot-assembly-12-startingup.MOV)
+
 
 ![robot-assembly-13-pairing.jpg](.artifacts/src/img/robot-assembly-13-pairing.jpg)
 
@@ -49,4 +51,4 @@ The front wheel is attached:
 
 ![robot-assembly-15-paired-driving.jpg](.artifacts/src/img/robot-assembly-15-paired-driving.jpg)
 
-[robot-assembly-20-driving.MOV](.artifacts/src/mov/robot-assembly-20-driving.MOV)
+![robot-assembly-16-control-pannel.jpg](.artifacts/src/img/robot-assembly-16-control-pannel.jpg)
