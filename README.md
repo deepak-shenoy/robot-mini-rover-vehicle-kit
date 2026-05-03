@@ -17,3 +17,4 @@ A dedicated firmware allows the robot to move autonomously and is used to run
 different AI algorithms.
 
 ![robot-assembly-01.jpg](.artifacts/src/img/robot-assembly-01.jpg)
+
