@@ -53,16 +53,18 @@ Fuse to prevent power overloading the board:
 
 <img src=".artifacts/src/img/robot-assembly-10-battery-fuse.jpg" style="width: 40%; height: auto;">
 
-
+Clearning up the wiring:
 
 <img src=".artifacts/src/img/robot-assembly-11-battery-fuse.jpg" style="width: 40%; height: auto;">
 
-Paring the robot with my phone application:
+Paring the robot with the phone application:
 
 <img src=".artifacts/src/img/robot-assembly-13-pairing.jpg" style="width: 40%; height: auto;">
 
+Robot paired:
+
 <img src=".artifacts/src/img/robot-assembly-14-paired.jpg" style="width: 40%; height: auto;">
 
-<img src=".artifacts/src/img/robot-assembly-15-paired-driving.jpg" style="width: 40%; height: auto;">
+The following is the control panel when driving the robot manually:
 
 <img src=".artifacts/src/img/robot-assembly-16-control-pannel.jpg" style="width: 40%; height: auto;">
